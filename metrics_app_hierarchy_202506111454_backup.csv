@@ -1,0 +1,33 @@
+name,display_name,hierarchy_type,parent,geometry_id,portfolio_name,id,parent_id,longitude,latitude,portfolio_id
+sbs,PES,space,sbs,23175,UoO,24052,23728,,,23457
+sbs-floor-0-seminar-room-64,PES Seminar Room 9,space,sbs,23611,UoO,23961,23728,,,23457
+sbs-floor-0-seminar-room-51,PES Seminar Room 2,space,sbs,23605,UoO,23955,23728,,,23457
+sbs-floor-0-seminar-room-52,PES Seminar Room 3,space,sbs,23606,UoO,23956,23728,,,23457
+sbs-floor-0-seminar-room-60,PES The Hive,space,sbs,23607,UoO,23957,23728,,,23457
+sbs-floor-0-seminar-room-61,PES Seminar Room 6,space,sbs,23608,UoO,23958,23728,,,23457
+sbs-floor-0-seminar-room-62,PES Seminar Room 5,space,sbs,23609,UoO,23959,23728,,,23457
+sbs-floor-0-seminar-room-76,PES Seminar Room 15,space,sbs,23616,UoO,23966,23728,,,23457
+sbs-floor-0-seminar-room-63,PES Seminar Room 4,space,sbs,23610,UoO,23960,23728,,,23457
+sbs-floor-0-seminar-room-77,PES Seminar Room 14,space,sbs,23617,UoO,23967,23728,,,23457
+sbs-floor-0-seminar-room-65,PES Seminar Room 10,space,sbs,23612,UoO,23962,23728,,,23457
+sbs-floor-0-seminar-room-66,PES Seminar Room 11,space,sbs,23613,UoO,23963,23728,,,23457
+sbs-floor-0-seminar-room-67,PES Seminar Room 13,space,sbs,23614,UoO,23964,23728,,,23457
+sbs-floor-0-seminar-room-75,PES Seminar Room 16,space,sbs,23615,UoO,23965,23728,,,23457
+sbs-floor-0-seminar-room-a,PES Seminar Room A,space,sbs,23603,UoO,23953,23728,,,23457
+sbs-floor-1-library,PES Library 1st floor,space,sbs,23626,UoO,23976,23728,,,23457
+sbs-floor-0-seminar-room-116,PES Floor 0 Seminar Room 116,space,sbs,23622,UoO,23972,23728,,,23457
+sbs-floor-0-cafe,PES Common Room,space,sbs,23600,UoO,23950,23728,,,23457
+sbs-floor-0-edmund-safra,PES Edmund Safra,space,sbs,23596,UoO,23946,23728,,,23457
+sbs-floor-0-nelson-mandela,PES Nelson Mandela,space,sbs,23595,UoO,23945,23728,,,23457
+sbs-floor-0-rhodes-trust,PES Rhodes Trust,space,sbs,23597,UoO,23947,23728,,,23457
+sbs-floor-0-seminar-room-111,PES Seminar Room 19,space,sbs,23618,UoO,23968,23728,,,23457
+sbs-floor-0-seminar-room-112,PES Seminar Room 20,space,sbs,23619,UoO,23969,23728,,,23457
+sbs-floor-0-seminar-room-114,PES Seminar Room 21,space,sbs,23620,UoO,23970,23728,,,23457
+sbs-floor-0-seminar-room-115,PES Seminar Room 22,space,sbs,23621,UoO,23971,23728,,,23457
+sbs-floor-0-seminar-room-50,PES Andrew Cormack,space,sbs,23604,UoO,23954,23728,,,23457
+sbs-floor-0-dining-room,PES Dining Room,space,sbs,23601,UoO,23951,23728,,,23457
+sbs-floor-0-founders-room,PES Founders Room,space,sbs,23602,UoO,23952,23728,,,23457
+sbs-floor-0-lecture-theatre-4,PES Lecture Theatre 4,space,sbs,23598,UoO,23948,23728,,,23457
+sbs-floor-0-lecture-theatre-5,PES Lecture Theatre 5,space,sbs,23599,UoO,23949,23728,,,23457
+sbs-floor-2-library,PES Library 2nd floor,space,sbs,23628,UoO,23978,23728,,,23457
+sbs-floor-0-reception,PES Floor 0 Reception,space,sbs,23642,UoO,23981,23728,,,23457
